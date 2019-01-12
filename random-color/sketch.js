@@ -1,4 +1,4 @@
-const randomNumberArray = [];
+let randomNumberArray = [];
 
 function setup() {
   createCanvas(windowWidth * 0.98, windowHeight * 0.97);
